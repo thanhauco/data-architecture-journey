@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+xgboost
+torch
+transformers
+apache-airflow
+pyspark
+langchain
+dbt-core
+clickhouse-driver
+databricks-sql-connector
