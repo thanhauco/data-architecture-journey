@@ -1,0 +1,2 @@
+# Theory: Stacking
+Detailed Math.
