@@ -1,0 +1,2 @@
+# Theory: Boosting
+Detailed Math.

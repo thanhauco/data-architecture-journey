@@ -1,0 +1,3 @@
+# EDA for Titanic
+import seaborn as sns
+# Analysis...
