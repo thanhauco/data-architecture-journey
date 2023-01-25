@@ -1,0 +1,3 @@
+# EDA for Digit Recognizer
+import seaborn as sns
+# Analysis...

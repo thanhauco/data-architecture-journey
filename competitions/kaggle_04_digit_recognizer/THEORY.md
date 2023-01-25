@@ -1,0 +1,2 @@
+# Theory: CNN
+Detailed Math.
