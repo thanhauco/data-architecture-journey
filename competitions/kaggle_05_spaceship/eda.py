@@ -1,0 +1,3 @@
+# EDA for Spaceship
+import seaborn as sns
+# Analysis...

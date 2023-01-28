@@ -1,0 +1,2 @@
+# Theory: CatBoost
+Detailed Math.
