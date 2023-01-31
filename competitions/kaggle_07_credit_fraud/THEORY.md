@@ -1,0 +1,2 @@
+# Theory: Anomaly
+Detailed Math.
