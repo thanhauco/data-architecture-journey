@@ -1,0 +1,2 @@
+# Theory: Regression
+Detailed Math.
