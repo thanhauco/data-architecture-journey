@@ -1,0 +1,2 @@
+# Theory: Finance
+Detailed Math.
