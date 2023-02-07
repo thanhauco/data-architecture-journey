@@ -1,0 +1,2 @@
+# Theory: Vision
+Detailed Math.
