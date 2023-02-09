@@ -1,0 +1,2 @@
+# Theory: CTR
+Detailed Math.
