@@ -1,0 +1,2 @@
+# Theory: Geospatial
+Detailed Math.
