@@ -1,0 +1,2 @@
+# Theory: Flattening
+Detailed Math.
