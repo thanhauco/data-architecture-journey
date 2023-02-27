@@ -1,0 +1,2 @@
+# Theory: Ranking
+Detailed Math.
