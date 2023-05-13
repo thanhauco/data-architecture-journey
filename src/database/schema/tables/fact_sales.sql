@@ -1,0 +1,1 @@
+CREATE TABLE fact_sales (id SERIAL);

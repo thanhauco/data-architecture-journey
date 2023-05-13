@@ -1,0 +1,1 @@
+CREATE TABLE dim_customer (id SERIAL);
