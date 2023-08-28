@@ -1,0 +1,1 @@
+display(spark.sql('VACUUM events RETAIN 168 HOURS'))
