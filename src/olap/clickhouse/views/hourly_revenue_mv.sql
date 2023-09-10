@@ -1,0 +1,1 @@
+CREATE MATERIALIZED VIEW hourly_revenue_mv TO hourly_revenue AS SELECT toStartOfHour(timestamp), sum(amount) FROM transactions_stream GROUP BY 1;
