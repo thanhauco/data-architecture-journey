@@ -1,0 +1,3 @@
+name: 'enterprise_dw'
+version: '1.0.0'
+profile: 'snowflake'
