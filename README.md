@@ -1,4 +1,4 @@
-# Data Architecture Repository
+# Data Architecture Repository 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
@@ -68,4 +68,4 @@ data-architecture-journey/
     *   Check `src/` for the engineering components.
 
 ---
-**Author**: Thanh Vu <thanhauco@gmail.com>
+**Author**: Thanh Vu
